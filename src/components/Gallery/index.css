@@ -1,0 +1,18 @@
+.mainImg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.boxShadow {
+  box-shadow: inset;
+}
+
+.bigImg {
+  width: 600px;
+}
+.thumbImg {
+  display: flex;
+  flex-direction: row;
+}
